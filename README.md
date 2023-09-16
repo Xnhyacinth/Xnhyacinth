@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🍻 M.A Student at CASIA
 - 🏃 bulk / gym
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Xnhyacinth/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xnhyacinth)](https://github.com/Xnhyacinth/github-readme-stats)
 

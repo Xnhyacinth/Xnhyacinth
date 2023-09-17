@@ -40,6 +40,12 @@ Here are some ideas to get you started:
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Xnhyacinth's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Xnhyacinth&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+  ### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
   
 

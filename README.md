@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26096](https://github.com/huggingface/transformers/issues/26096#issuecomment-1763323692) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🗣 Commented on [#1084](https://github.com/google-research/text-to-text-transfer-transformer/issues/1084#issuecomment-1722512829) in [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)
-3. 🗣 Commented on [#1084](https://github.com/google-research/text-to-text-transfer-transformer/issues/1084#issuecomment-1722417596) in [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)
-4. 🗣 Commented on [#654](https://github.com/google-research/text-to-text-transfer-transformer/issues/654#issuecomment-1722214409) in [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)
-5. 🗣 Commented on [#654](https://github.com/google-research/text-to-text-transfer-transformer/issues/654#issuecomment-1722208174) in [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)
+1. ❗ Opened issue [#34](https://github.com/jquesnelle/yarn/issues/34) in [jquesnelle/yarn](https://github.com/jquesnelle/yarn)
+2. 🗣 Commented on [#26096](https://github.com/huggingface/transformers/issues/26096#issuecomment-1763323692) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#1084](https://github.com/google-research/text-to-text-transfer-transformer/issues/1084#issuecomment-1722512829) in [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)
+4. 🗣 Commented on [#1084](https://github.com/google-research/text-to-text-transfer-transformer/issues/1084#issuecomment-1722417596) in [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)
+5. 🗣 Commented on [#654](https://github.com/google-research/text-to-text-transfer-transformer/issues/654#issuecomment-1722214409) in [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)
   <!--END_SECTION:activity-->
 
 

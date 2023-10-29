@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1784000143) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1783999828) in [huggingface/transformers](https://github.com/huggingface/transformers)
-3. 🗣 Commented on [#16](https://github.com/facebookresearch/FiD/issues/16#issuecomment-1783847408) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
-4. ❗ Opened issue [#34](https://github.com/jquesnelle/yarn/issues/34) in [jquesnelle/yarn](https://github.com/jquesnelle/yarn)
-5. 🗣 Commented on [#26096](https://github.com/huggingface/transformers/issues/26096#issuecomment-1763323692) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. ❗ Opened issue [#37](https://github.com/facebookresearch/FiD/issues/37) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
+2. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1784000143) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1783999828) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. 🗣 Commented on [#16](https://github.com/facebookresearch/FiD/issues/16#issuecomment-1783847408) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
+5. ❗ Opened issue [#34](https://github.com/jquesnelle/yarn/issues/34) in [jquesnelle/yarn](https://github.com/jquesnelle/yarn)
   <!--END_SECTION:activity-->
 
 

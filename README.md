@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1389](https://github.com/facebookresearch/faiss/issues/1389#issuecomment-1786729745) in [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
-2. ❗ Opened issue [#20](https://github.com/facebookresearch/contriever/issues/20) in [facebookresearch/contriever](https://github.com/facebookresearch/contriever)
-3. 🗣 Commented on [#3](https://github.com/facebookresearch/FiD/issues/3#issuecomment-1784719734) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
-4. ❗ Opened issue [#37](https://github.com/facebookresearch/FiD/issues/37) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
-5. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1784000143) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 💪 Opened PR [#1](https://github.com/cavalierlulu/rag_survey/pull/1) in [cavalierlulu/rag_survey](https://github.com/cavalierlulu/rag_survey)
+2. 🗣 Commented on [#1389](https://github.com/facebookresearch/faiss/issues/1389#issuecomment-1786729745) in [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+3. ❗ Opened issue [#20](https://github.com/facebookresearch/contriever/issues/20) in [facebookresearch/contriever](https://github.com/facebookresearch/contriever)
+4. 🗣 Commented on [#3](https://github.com/facebookresearch/FiD/issues/3#issuecomment-1784719734) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
+5. ❗ Opened issue [#37](https://github.com/facebookresearch/FiD/issues/37) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
   <!--END_SECTION:activity-->
 
 

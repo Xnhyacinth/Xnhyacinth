@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14429](https://github.com/Lightning-AI/lightning/issues/14429#issuecomment-1817415914) in [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning)
-2. 💪 Opened PR [#1](https://github.com/cavalierlulu/rag_survey/pull/1) in [cavalierlulu/rag_survey](https://github.com/cavalierlulu/rag_survey)
-3. 🗣 Commented on [#1389](https://github.com/facebookresearch/faiss/issues/1389#issuecomment-1786729745) in [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
-4. ❗ Opened issue [#20](https://github.com/facebookresearch/contriever/issues/20) in [facebookresearch/contriever](https://github.com/facebookresearch/contriever)
-5. 🗣 Commented on [#3](https://github.com/facebookresearch/FiD/issues/3#issuecomment-1784719734) in [facebookresearch/FiD](https://github.com/facebookresearch/FiD)
+1. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820770186) in [huggingface/datasets](https://github.com/huggingface/datasets)
+2. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820744219) in [huggingface/datasets](https://github.com/huggingface/datasets)
+3. 🗣 Commented on [#14429](https://github.com/Lightning-AI/lightning/issues/14429#issuecomment-1817415914) in [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning)
+4. 💪 Opened PR [#1](https://github.com/cavalierlulu/rag_survey/pull/1) in [cavalierlulu/rag_survey](https://github.com/cavalierlulu/rag_survey)
+5. 🗣 Commented on [#1389](https://github.com/facebookresearch/faiss/issues/1389#issuecomment-1786729745) in [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
   <!--END_SECTION:activity-->
 
 

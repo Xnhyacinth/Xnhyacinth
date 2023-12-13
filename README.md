@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820770186) in [huggingface/datasets](https://github.com/huggingface/datasets)
-2. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820744219) in [huggingface/datasets](https://github.com/huggingface/datasets)
-3. 🗣 Commented on [#14429](https://github.com/Lightning-AI/lightning/issues/14429#issuecomment-1817415914) in [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning)
-4. 💪 Opened PR [#1](https://github.com/cavalierlulu/rag_survey/pull/1) in [cavalierlulu/rag_survey](https://github.com/cavalierlulu/rag_survey)
-5. 🗣 Commented on [#1389](https://github.com/facebookresearch/faiss/issues/1389#issuecomment-1786729745) in [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+1. 🗣 Commented on [#19096](https://github.com/Lightning-AI/pytorch-lightning/issues/19096#issuecomment-1853673028) in [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
+2. 🗣 Commented on [#1960](https://github.com/microsoft/DeepSpeed/issues/1960#issuecomment-1853671032) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+3. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820770186) in [huggingface/datasets](https://github.com/huggingface/datasets)
+4. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820744219) in [huggingface/datasets](https://github.com/huggingface/datasets)
+5. 🗣 Commented on [#14429](https://github.com/Lightning-AI/lightning/issues/14429#issuecomment-1817415914) in [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning)
   <!--END_SECTION:activity-->
 
 

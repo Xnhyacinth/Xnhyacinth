@@ -1,4 +1,5 @@
 ### Hi there, I'm [Xnhyacinth](https://xnhyacinth.github.io/) 👋
+
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -16,30 +17,6 @@
   </picture>
 
   <div>&nbsp;</div>
-<!--
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/wakatime.svg" alt="wakatime" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/activity.svg" alt="activity" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stars.svg" alt="stars" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-    </tr>
-  </table>
-  -->
 </div>
 
 <!--
@@ -63,6 +40,29 @@ Here are some ideas to get you started:
 - 🏃 like bulk / gym / basketball
 - 📫 Contact me with liaohuanxuan2023@ia.ac.cn
 
+<div align="center">
+
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/activity.svg" alt="activity" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stars.svg" alt="stars" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    </tr>
+  </table>
+  
+</div>
+
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   
@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
-2. 💪 Opened PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
-3. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1869949034) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. 🗣 Commented on [#19096](https://github.com/Lightning-AI/pytorch-lightning/issues/19096#issuecomment-1853673028) in [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
-5. 🗣 Commented on [#1960](https://github.com/microsoft/DeepSpeed/issues/1960#issuecomment-1853671032) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+1. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1869949034) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 🗣 Commented on [#19096](https://github.com/Lightning-AI/pytorch-lightning/issues/19096#issuecomment-1853673028) in [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
+3. 🗣 Commented on [#1960](https://github.com/microsoft/DeepSpeed/issues/1960#issuecomment-1853671032) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+4. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820770186) in [huggingface/datasets](https://github.com/huggingface/datasets)
+5. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820744219) in [huggingface/datasets](https://github.com/huggingface/datasets)
   <!--END_SECTION:activity-->
 
 

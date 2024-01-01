@@ -1,6 +1,46 @@
 ### Hi there, I'm [Xnhyacinth](https://xnhyacinth.github.io/) 👋
+<div align="center">
 
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);Good Luck Today!&center=true&size=27" />
+    </a>
+  </div>
+  
+<!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
+  <div>&nbsp;</div>
+<!--
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/wakatime.svg" alt="wakatime" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/activity.svg" alt="activity" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stars.svg" alt="stars" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    </tr>
+  </table>
+  -->
+</div>
 
 <!--
 **Xnhyacinth/Xnhyacinth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

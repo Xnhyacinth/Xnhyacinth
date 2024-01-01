@@ -89,6 +89,6 @@ Here are some ideas to get you started:
     </tr>
   </table>
   
+  <img width="120%" src="https://repobeats.axiom.co/api/embed/60a5e900f598dbdd9402966882bfdbf3588326a1.svg" />
+  
 </div>
-
-![Alt](https://repobeats.axiom.co/api/embed/60a5e900f598dbdd9402966882bfdbf3588326a1.svg "Repobeats analytics image")

@@ -16,7 +16,6 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  <div>&nbsp;</div>
 </div>
 
 <!--
@@ -39,29 +38,6 @@ Here are some ideas to get you started:
 - 🍻 M.S Student at CASIA
 - 🏃 like bulk / gym / basketball
 - 📫 Contact me with liaohuanxuan2023@ia.ac.cn
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/activity.svg" alt="activity" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stars.svg" alt="stars" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-    </tr>
-  </table>
-  
-</div>
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
@@ -90,6 +66,27 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#6153](https://github.com/huggingface/datasets/issues/6153#issuecomment-1820744219) in [huggingface/datasets](https://github.com/huggingface/datasets)
   <!--END_SECTION:activity-->
 
-
+</details>
   
-
+<div align="center">
+  <div>&nbsp;</div>
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/activity.svg" alt="activity" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stars.svg" alt="stars" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    </tr>
+  </table>
+  
+</div>

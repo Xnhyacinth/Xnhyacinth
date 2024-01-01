@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 🍻 M.S Student at CASIA
 - 🏃 like bulk / gym / basketball
-- 📫 Contact me with liaohuanxuan2023@ia.ac.cn
+- 📫 Contact me with liaohuanxuan2023@ia.ac.cn & huanxuanliao@gmail.com
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>

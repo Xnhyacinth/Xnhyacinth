@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     <tr>
       <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
 <!--       <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td> -->
-      <td><a href="href="#btm"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
+      <td><a href="#btm"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
     </tr>
     <tr>
       <td><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>

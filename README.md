@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     <tr>
       <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
 <!--       <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td> -->
-      <td><a href="https://github.com/Xnhyacinth/Xnhyacinth/blob/f176b9120d135b480b450ea16cfacfc1f55cde12/README.md?plain=1#L95"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
+      <td><a href="href="#btm"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
     </tr>
     <tr>
       <td><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
@@ -91,5 +91,5 @@ Here are some ideas to get you started:
   </table>
   
   <img width="120%" src="https://repobeats.axiom.co/api/embed/60a5e900f598dbdd9402966882bfdbf3588326a1.svg" />
-  
+  <div id="btm"></div>
 </div>

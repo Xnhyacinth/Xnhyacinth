@@ -72,20 +72,21 @@ Here are some ideas to get you started:
   <div>&nbsp;</div>
   <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+      <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+<!--       <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td> -->
+      <td><a href="https://github.com/Xnhyacinth/Xnhyacinth/blob/f176b9120d135b480b450ea16cfacfc1f55cde12/README.md?plain=1#L95"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+      <td><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+      <td><img src="github-metrics/calendar.full.svg" alt="calendar.full" /></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/activity.svg" alt="activity" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+      <td><img src="github-metrics/activity.svg" alt="activity" /></td>
+      <td><img src="github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stars.svg" alt="stars" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+      <td><img src="github-metrics/stars.svg" alt="stars" /></td>
+      <td><img src="github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
     </tr>
   </table>
   

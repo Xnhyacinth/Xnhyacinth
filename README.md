@@ -77,11 +77,11 @@ Here are some ideas to get you started:
       <td><a href="#btm"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
     </tr>
     <tr>
-      <td><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-      <td><img src="github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+      <td><a href="#btm"><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></a></td>
+      <td><a href="#btm"><img src="github-metrics/calendar.full.svg" alt="calendar.full" /></a></td>
     </tr>
     <tr>
-      <td><img src="github-metrics/activity.svg" alt="activity" /></td>
+      <td><a href="#btm"><img src="github-metrics/activity.svg" alt="activity" /></a></td>
       <td><img src="github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
     </tr>
     <tr>

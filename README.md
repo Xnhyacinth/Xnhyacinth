@@ -59,11 +59,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
-2. 💪 Opened PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
-3. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1869949034) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. 🗣 Commented on [#19096](https://github.com/Lightning-AI/pytorch-lightning/issues/19096#issuecomment-1853673028) in [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
-5. 🗣 Commented on [#1960](https://github.com/microsoft/DeepSpeed/issues/1960#issuecomment-1853671032) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+1. 🎉 Merged PR [#1](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/1) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+2. ❌ Closed PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
+3. 💪 Opened PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
+4. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1869949034) in [huggingface/transformers](https://github.com/huggingface/transformers)
+5. 🗣 Commented on [#19096](https://github.com/Lightning-AI/pytorch-lightning/issues/19096#issuecomment-1853673028) in [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
   <!--END_SECTION:activity-->
 
 </details>

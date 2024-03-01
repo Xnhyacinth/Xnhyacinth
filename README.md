@@ -59,11 +59,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
-2. 🎉 Merged PR [#1](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/1) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-3. ❌ Closed PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
-4. 💪 Opened PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
-5. 🗣 Commented on [#24056](https://github.com/huggingface/transformers/issues/24056#issuecomment-1869949034) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 🔒 Closed issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+2. ❗ Opened issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+3. 🎉 Merged PR [#1](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/1) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+4. ❌ Closed PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
+5. 💪 Opened PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
   <!--END_SECTION:activity-->
 
 </details>

@@ -59,11 +59,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
-2. ❗ Opened issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
-3. 🎉 Merged PR [#1](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/1) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-4. ❌ Closed PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
-5. 💪 Opened PR [#358](https://github.com/wangxinleo/wechat-public-account-push/pull/358) in [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
+1. 🗣 Commented on [#778](https://github.com/TimDettmers/bitsandbytes/issues/778#issuecomment-1975529880) in [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
+2. 🗣 Commented on [#778](https://github.com/TimDettmers/bitsandbytes/issues/778#issuecomment-1975528433) in [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
+3. 🔒 Closed issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+4. ❗ Opened issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+5. 🎉 Merged PR [#1](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/1) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
   <!--END_SECTION:activity-->
 
 </details>

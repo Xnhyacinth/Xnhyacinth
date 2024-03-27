@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/RUCAIBox/LIVE/issues/2#issuecomment-1980107552) in [RUCAIBox/LIVE](https://github.com/RUCAIBox/LIVE)
+1. 🗣 Commented on [#13](https://github.com/bigscience-workshop/t-zero/issues/13#issuecomment-2021899546) in [bigscience-workshop/t-zero](https://github.com/bigscience-workshop/t-zero)
 2. 🗣 Commented on [#778](https://github.com/TimDettmers/bitsandbytes/issues/778#issuecomment-1975529880) in [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
 3. 🗣 Commented on [#778](https://github.com/TimDettmers/bitsandbytes/issues/778#issuecomment-1975528433) in [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
 4. 🔒 Closed issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)

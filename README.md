@@ -59,9 +59,9 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/bigheiniu/MEND/issues/1) in [bigheiniu/MEND](https://github.com/bigheiniu/MEND)
-2. 🗣 Commented on [#13](https://github.com/bigscience-workshop/t-zero/issues/13#issuecomment-2021899546) in [bigscience-workshop/t-zero](https://github.com/bigscience-workshop/t-zero)
-3. 🗣 Commented on [#778](https://github.com/TimDettmers/bitsandbytes/issues/778#issuecomment-1975528433) in [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
+1. 🗣 Commented on [#2](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/2#issuecomment-2051094707) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+2. ❗ Opened issue [#1](https://github.com/bigheiniu/MEND/issues/1) in [bigheiniu/MEND](https://github.com/bigheiniu/MEND)
+3. 🗣 Commented on [#13](https://github.com/bigscience-workshop/t-zero/issues/13#issuecomment-2021899546) in [bigscience-workshop/t-zero](https://github.com/bigscience-workshop/t-zero)
 4. 🔒 Closed issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
 5. ❗ Opened issue [#5218](https://github.com/microsoft/DeepSpeed/issues/5218) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
   <!--END_SECTION:activity-->

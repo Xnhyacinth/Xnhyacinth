@@ -60,7 +60,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.82 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.44 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -82,10 +82,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">622</div>
+                                        <div class="value">624</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 622 times</div>
+                                <div class="text">Repositories have been deployed 624 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -133,7 +133,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.4243668720054705 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6365503080082058 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -215,7 +215,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.82082082082082 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.44144144144144 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -238,12 +238,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 113k out of 208m repositories</span>
+                                    <span class="gh">ranked 112k out of 208m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">393</div>
+                                        <div class="value">397</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 393 stars</div>
+                                <div class="text">Maintaining a repository with 397 stars</div>
                             </div>
                         </div>
                         <div class="achievement x largeable-width-half">

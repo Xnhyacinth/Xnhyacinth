@@ -59,11 +59,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/7#issuecomment-2151444219) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-2. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/7) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-3. 🗣 Commented on [#6](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/6#issuecomment-2143818973) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-4. 🔒 Closed issue [#6](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/6) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-5. 🗣 Commented on [#6](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/6#issuecomment-2143677583) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+1. ❗ Opened issue [#2](https://github.com/C-W-D/CasCoD/issues/2) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+2. 🗣 Commented on [#7](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/7#issuecomment-2151444219) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+3. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/7) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+4. 🗣 Commented on [#6](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/6#issuecomment-2143818973) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+5. 🔒 Closed issue [#6](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/6) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
   <!--END_SECTION:activity-->
 
 </details>

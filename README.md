@@ -59,11 +59,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/emilyallaway/generics-exemplars/issues/1) in [emilyallaway/generics-exemplars](https://github.com/emilyallaway/generics-exemplars)
-2. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2181902344) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
-3. 🔓 Reopened issue [#2](https://github.com/C-W-D/CasCoD/issues/2) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
-4. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2152714018) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
-5. 🔒 Closed issue [#2](https://github.com/C-W-D/CasCoD/issues/2) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+1. ❗ Opened issue [#1](https://github.com/aleidinger/nonmonotonic_reasoning_generics/issues/1) in [aleidinger/nonmonotonic_reasoning_generics](https://github.com/aleidinger/nonmonotonic_reasoning_generics)
+2. ❗ Opened issue [#1](https://github.com/emilyallaway/generics-exemplars/issues/1) in [emilyallaway/generics-exemplars](https://github.com/emilyallaway/generics-exemplars)
+3. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2181902344) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+4. 🔓 Reopened issue [#2](https://github.com/C-W-D/CasCoD/issues/2) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+5. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2152714018) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
   <!--END_SECTION:activity-->
 
 </details>

@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9#issuecomment-2191005219) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-2. ❌ Closed PR [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-3. 🎉 Merged PR [#8](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/8) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-4. ❗ Opened issue [#1](https://github.com/aleidinger/nonmonotonic_reasoning_generics/issues/1) in [aleidinger/nonmonotonic_reasoning_generics](https://github.com/aleidinger/nonmonotonic_reasoning_generics)
-5. ❗ Opened issue [#1](https://github.com/emilyallaway/generics-exemplars/issues/1) in [emilyallaway/generics-exemplars](https://github.com/emilyallaway/generics-exemplars)
+1. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198132201) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+2. 🗣 Commented on [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9#issuecomment-2191005219) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+3. ❌ Closed PR [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+4. 🎉 Merged PR [#8](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/8) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+5. ❗ Opened issue [#1](https://github.com/aleidinger/nonmonotonic_reasoning_generics/issues/1) in [aleidinger/nonmonotonic_reasoning_generics](https://github.com/aleidinger/nonmonotonic_reasoning_generics)
   <!--END_SECTION:activity-->
 
 </details>

@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198172864) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
-2. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198132201) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
-3. 🗣 Commented on [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9#issuecomment-2191005219) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-4. ❌ Closed PR [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-5. 🎉 Merged PR [#8](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/8) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+1. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198199991) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+2. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198172864) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+3. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198132201) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+4. 🗣 Commented on [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9#issuecomment-2191005219) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+5. ❌ Closed PR [#9](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/9) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
   <!--END_SECTION:activity-->
 
 </details>

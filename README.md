@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#383](https://github.com/castorini/pyserini/issues/383#issuecomment-2212397857) in [castorini/pyserini](https://github.com/castorini/pyserini)
-2. 🗣 Commented on [#10](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/10#issuecomment-2210131584) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-3. 🔒 Closed issue [#10](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/10) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-4. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198247143) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
-5. 🔒 Closed issue [#2](https://github.com/C-W-D/CasCoD/issues/2) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
+1. 🗣 Commented on [#445](https://github.com/NVIDIA/MinkowskiEngine/issues/445#issuecomment-2290528084) in [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine)
+2. 🗣 Commented on [#383](https://github.com/castorini/pyserini/issues/383#issuecomment-2212397857) in [castorini/pyserini](https://github.com/castorini/pyserini)
+3. 🗣 Commented on [#10](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/10#issuecomment-2210131584) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+4. 🔒 Closed issue [#10](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/10) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+5. 🗣 Commented on [#2](https://github.com/C-W-D/CasCoD/issues/2#issuecomment-2198247143) in [C-W-D/CasCoD](https://github.com/C-W-D/CasCoD)
   <!--END_SECTION:activity-->
 
 </details>

@@ -62,9 +62,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#17](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/17) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
 2. 🗣 Commented on [#17](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/17#issuecomment-2510484036) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-3. ❌ Reopened PR [#16](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/16) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-4. 🗣 Commented on [#16](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/16#issuecomment-2437199275) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-5. ❌ Closed PR [#16](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/16) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+3. 🎉 Merged PR [#16](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/16) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+4. ❌ Reopened PR [#16](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/16) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+5. 🗣 Commented on [#16](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/16#issuecomment-2437199275) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
   <!--END_SECTION:activity-->
 
 </details>

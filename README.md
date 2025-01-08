@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2057](https://github.com/castorini/pyserini/issues/2057) in [castorini/pyserini](https://github.com/castorini/pyserini)
-2. 🗣 Commented on [#1876](https://github.com/castorini/pyserini/pull/1876#issuecomment-2576816476) in [castorini/pyserini](https://github.com/castorini/pyserini)
-3. 🗣 Commented on [#23](https://github.com/THUDM/LongBench/issues/23#issuecomment-2574568747) in [THUDM/LongBench](https://github.com/THUDM/LongBench)
-4. 🗣 Commented on [#1876](https://github.com/castorini/pyserini/pull/1876#issuecomment-2574558545) in [castorini/pyserini](https://github.com/castorini/pyserini)
-5. 🗣 Commented on [#3118](https://github.com/marktext/marktext/issues/3118#issuecomment-2573084280) in [marktext/marktext](https://github.com/marktext/marktext)
+1. 🗣 Commented on [#12](https://github.com/Hannibal046/xRAG/issues/12#issuecomment-2577033779) in [Hannibal046/xRAG](https://github.com/Hannibal046/xRAG)
+2. ❗ Opened issue [#2057](https://github.com/castorini/pyserini/issues/2057) in [castorini/pyserini](https://github.com/castorini/pyserini)
+3. 🗣 Commented on [#1876](https://github.com/castorini/pyserini/pull/1876#issuecomment-2576816476) in [castorini/pyserini](https://github.com/castorini/pyserini)
+4. 🗣 Commented on [#23](https://github.com/THUDM/LongBench/issues/23#issuecomment-2574568747) in [THUDM/LongBench](https://github.com/THUDM/LongBench)
+5. 🗣 Commented on [#1876](https://github.com/castorini/pyserini/pull/1876#issuecomment-2574558545) in [castorini/pyserini](https://github.com/castorini/pyserini)
   <!--END_SECTION:activity-->
 
 </details>

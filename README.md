@@ -60,8 +60,8 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2057](https://github.com/castorini/pyserini/issues/2057#issuecomment-2585732979) in [castorini/pyserini](https://github.com/castorini/pyserini)
-2. 🗣 Commented on [#13](https://github.com/Hannibal046/xRAG/issues/13#issuecomment-2579309951) in [Hannibal046/xRAG](https://github.com/Hannibal046/xRAG)
+1. 🗣 Commented on [#1481](https://github.com/huggingface/accelerate/issues/1481#issuecomment-2661389733) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+2. 🗣 Commented on [#102438](https://github.com/pytorch/pytorch/issues/102438#issuecomment-2661389704) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 3. 🔒 Closed issue [#13](https://github.com/Hannibal046/xRAG/issues/13) in [Hannibal046/xRAG](https://github.com/Hannibal046/xRAG)
 4. 🗣 Commented on [#2057](https://github.com/castorini/pyserini/issues/2057#issuecomment-2579213345) in [castorini/pyserini](https://github.com/castorini/pyserini)
 5. 🗣 Commented on [#13](https://github.com/Hannibal046/xRAG/issues/13#issuecomment-2579203602) in [Hannibal046/xRAG](https://github.com/Hannibal046/xRAG)

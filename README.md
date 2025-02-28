@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/SalesforceAIResearch/ThinK/issues/1) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)
-2. ❗ Opened issue [#1](https://github.com/dongwonjo/FastKV/issues/1) in [dongwonjo/FastKV](https://github.com/dongwonjo/FastKV)
-3. ❗ Opened issue [#6](https://github.com/FFY0/AdaKV/issues/6) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
-4. 🗣 Commented on [#19](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/19#issuecomment-2663051281) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-5. 🔒 Closed issue [#19](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/19) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+1. 🗣 Commented on [#1](https://github.com/SalesforceAIResearch/ThinK/issues/1#issuecomment-2687876116) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)
+2. 🔒 Closed issue [#1](https://github.com/SalesforceAIResearch/ThinK/issues/1) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)
+3. ❗ Opened issue [#1](https://github.com/SalesforceAIResearch/ThinK/issues/1) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)
+4. ❗ Opened issue [#1](https://github.com/dongwonjo/FastKV/issues/1) in [dongwonjo/FastKV](https://github.com/dongwonjo/FastKV)
+5. ❗ Opened issue [#6](https://github.com/FFY0/AdaKV/issues/6) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
   <!--END_SECTION:activity-->
 
 </details>

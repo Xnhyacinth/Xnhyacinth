@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/FFY0/AdaKV/issues/6#issuecomment-2712785376) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
-2. 🔒 Closed issue [#6](https://github.com/FFY0/AdaKV/issues/6) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
-3. 🗣 Commented on [#6](https://github.com/FFY0/AdaKV/issues/6#issuecomment-2712581903) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
-4. 🗣 Commented on [#56](https://github.com/NVIDIA/kvpress/issues/56#issuecomment-2712581044) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
-5. 🔒 Closed issue [#56](https://github.com/NVIDIA/kvpress/issues/56) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
+1. 🗣 Commented on [#56](https://github.com/NVIDIA/kvpress/issues/56#issuecomment-2712897619) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
+2. 🗣 Commented on [#1](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/1#issuecomment-2712874363) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+3. 🎉 Merged PR [#1](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/1) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+4. 🗣 Commented on [#56](https://github.com/NVIDIA/kvpress/issues/56#issuecomment-2712788108) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
+5. 🗣 Commented on [#6](https://github.com/FFY0/AdaKV/issues/6#issuecomment-2712785376) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
   <!--END_SECTION:activity-->
 
 </details>

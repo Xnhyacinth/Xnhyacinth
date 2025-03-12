@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/NVIDIA/kvpress/pull/57) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
-2. 🗣 Commented on [#3](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/issues/3#issuecomment-2713613130) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
-3. 🎉 Merged PR [#2](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/2) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
-4. 🗣 Commented on [#6](https://github.com/FFY0/AdaKV/issues/6#issuecomment-2712901925) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
-5. 🗣 Commented on [#56](https://github.com/NVIDIA/kvpress/issues/56#issuecomment-2712897619) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
+1. ❌ Closed PR [#57](https://github.com/NVIDIA/kvpress/pull/57) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
+2. 💪 Opened PR [#57](https://github.com/NVIDIA/kvpress/pull/57) in [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress)
+3. 🗣 Commented on [#3](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/issues/3#issuecomment-2713613130) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+4. 🎉 Merged PR [#2](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/2) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+5. 🗣 Commented on [#6](https://github.com/FFY0/AdaKV/issues/6#issuecomment-2712901925) in [FFY0/AdaKV](https://github.com/FFY0/AdaKV)
   <!--END_SECTION:activity-->
 
 </details>

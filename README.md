@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/21#issuecomment-2748714422) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+1. 🗣 Commented on [#22](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/issues/22#issuecomment-2846128181) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
 2. 🎉 Merged PR [#21](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/21) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
 3. 🗣 Commented on [#5](https://github.com/SalesforceAIResearch/ThinK/issues/5#issuecomment-2742204444) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)
 4. 🔒 Closed issue [#5](https://github.com/SalesforceAIResearch/ThinK/issues/5) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)

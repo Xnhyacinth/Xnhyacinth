@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Xnhyacinth)
 -->
 
-- 🍻 M.Eng. Student at CASIA
+- 🍻 PhD Student at UCAS. Focusing on Long Context Modeling and Efficient Inference
 - 🏃 like bulk / gym / basketball
 - 📫 Contact me with liaohuanxuan2023@ia.ac.cn & huanxuanliao@gmail.com
 - 😄 Personal Page: https://xnhyacinth.github.io

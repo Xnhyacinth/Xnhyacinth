@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Xnhyacinth/DATA/issues/2#issuecomment-2948010773) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
-2. 🗣 Commented on [#1](https://github.com/Xnhyacinth/HyCo2/issues/1#issuecomment-2938174790) in [Xnhyacinth/HyCo2](https://github.com/Xnhyacinth/HyCo2)
-3. 🎉 Merged PR [#10](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/10) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
-4. ❌ Reopened PR [#10](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/10) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
-5. 🗣 Commented on [#10](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/10#issuecomment-2938162322) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+1. 🗣 Commented on [#11](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/11#issuecomment-2948079849) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+2. 🎉 Merged PR [#11](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/11) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+3. 🗣 Commented on [#26](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/26#issuecomment-2948075960) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+4. 🎉 Merged PR [#26](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/26) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+5. 🗣 Commented on [#2](https://github.com/Xnhyacinth/DATA/issues/2#issuecomment-2948010773) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
   <!--END_SECTION:activity-->
 
 </details>

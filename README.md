@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/27#issuecomment-2954958208) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-2. 🎉 Merged PR [#27](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/27) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-3. 🗣 Commented on [#11](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/11#issuecomment-2948079849) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
-4. 🎉 Merged PR [#11](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pull/11) in [LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
-5. 🗣 Commented on [#26](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/26#issuecomment-2948075960) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+1. 🗣 Commented on [#2](https://github.com/Xnhyacinth/DATA/issues/2#issuecomment-2957717434) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+2. 🔒 Closed issue [#2](https://github.com/Xnhyacinth/DATA/issues/2) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+3. 🗣 Commented on [#1](https://github.com/Xnhyacinth/DATA/issues/1#issuecomment-2957713166) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+4. 🗣 Commented on [#5](https://github.com/Xnhyacinth/DATA/issues/5#issuecomment-2957708570) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+5. 🔒 Closed issue [#5](https://github.com/Xnhyacinth/DATA/issues/5) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
   <!--END_SECTION:activity-->
 
 </details>

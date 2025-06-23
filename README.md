@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/dvlab-research/VisionZip/issues/18#issuecomment-2976703720) in [dvlab-research/VisionZip](https://github.com/dvlab-research/VisionZip)
-2. 🗣 Commented on [#1](https://github.com/chs20/fuselip/issues/1#issuecomment-2969568031) in [chs20/fuselip](https://github.com/chs20/fuselip)
-3. 🔒 Closed issue [#1](https://github.com/chs20/fuselip/issues/1) in [chs20/fuselip](https://github.com/chs20/fuselip)
-4. 🔒 Closed issue [#6](https://github.com/SalesforceAIResearch/ThinK/issues/6) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)
-5. ❗ Opened issue [#6](https://github.com/SalesforceAIResearch/ThinK/issues/6) in [SalesforceAIResearch/ThinK](https://github.com/SalesforceAIResearch/ThinK)
+1. 🗣 Commented on [#28](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/28#issuecomment-2995303064) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+2. ❌ Closed PR [#28](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/28) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+3. 🗣 Commented on [#18](https://github.com/dvlab-research/VisionZip/issues/18#issuecomment-2976703720) in [dvlab-research/VisionZip](https://github.com/dvlab-research/VisionZip)
+4. 🗣 Commented on [#1](https://github.com/chs20/fuselip/issues/1#issuecomment-2969568031) in [chs20/fuselip](https://github.com/chs20/fuselip)
+5. 🔒 Closed issue [#1](https://github.com/chs20/fuselip/issues/1) in [chs20/fuselip](https://github.com/chs20/fuselip)
   <!--END_SECTION:activity-->
 
 </details>

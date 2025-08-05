@@ -69,12 +69,13 @@ Here are some ideas to get you started:
 
 </details>
   
+<!--
 <div align="center">
   <div>&nbsp;</div>
   <table>
     <tr>
       <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-<!--       <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td> -->
+      <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
       <td><a href="#btm"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
     </tr>
     <tr>
@@ -94,3 +95,4 @@ Here are some ideas to get you started:
   <img width="120%" src="https://repobeats.axiom.co/api/embed/60a5e900f598dbdd9402966882bfdbf3588326a1.svg" />
   <div id="btm"></div>
 </div>
+-->

@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AMD-AGI/AMD-Spark/issues/1#issuecomment-3318451610) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
-2. 💪 Opened PR [#2](https://github.com/AMD-AGI/AMD-Spark/pull/2) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
-3. 🗣 Commented on [#7](https://github.com/Xnhyacinth/DATA/issues/7#issuecomment-3218538433) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
-4. 🗣 Commented on [#6](https://github.com/Xnhyacinth/DATA/issues/6#issuecomment-3218528921) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
-5. 🔒 Closed issue [#5](https://github.com/Xnhyacinth/DATA/issues/5) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+1. 🔒 Closed issue [#1](https://github.com/Xnhyacinth/HyCo2/issues/1) in [Xnhyacinth/HyCo2](https://github.com/Xnhyacinth/HyCo2)
+2. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/DATA/issues/7) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+3. 🔒 Closed issue [#6](https://github.com/Xnhyacinth/DATA/issues/6) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+4. 🗣 Commented on [#1](https://github.com/AMD-AGI/AMD-Spark/issues/1#issuecomment-3318451610) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
+5. 💪 Opened PR [#2](https://github.com/AMD-AGI/AMD-Spark/pull/2) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
   <!--END_SECTION:activity-->
 
 </details>

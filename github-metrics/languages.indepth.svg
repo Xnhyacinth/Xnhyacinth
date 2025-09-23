@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 53.4mb of code in 307 edited files across 104 commits</small>
+                <small>estimation from 53.4mb of code in 311 edited files across 107 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.05733945657744" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.05733945657744" y="0" width="0.9426605434225744" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.0631193175235" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.0631193175235" y="0" width="0.9368806824764774" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>8.48k lines</div>
-                                <div>325 kB</div>
+                                <div>8.56k lines</div>
+                                <div>327 kB</div>
                             </small>
                         </div>
                     </section>

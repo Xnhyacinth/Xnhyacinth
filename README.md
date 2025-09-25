@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 2. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/DATA/issues/7) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
 3. 🔒 Closed issue [#6](https://github.com/Xnhyacinth/DATA/issues/6) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
 4. 🗣 Commented on [#1](https://github.com/AMD-AGI/AMD-Spark/issues/1#issuecomment-3318451610) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
-5. 💪 Opened PR [#2](https://github.com/AMD-AGI/AMD-Spark/pull/2) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
+5. 💪 Opened PR [#2](undefined) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
   <!--END_SECTION:activity-->
 
 </details>

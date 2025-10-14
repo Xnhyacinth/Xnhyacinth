@@ -61,10 +61,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
-2. 🔒 Closed issue [#1](https://github.com/Xnhyacinth/HyCo2/issues/1) in [Xnhyacinth/HyCo2](https://github.com/Xnhyacinth/HyCo2)
-3. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/DATA/issues/7) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
-4. 🔒 Closed issue [#6](https://github.com/Xnhyacinth/DATA/issues/6) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
-5. 🗣 Commented on [#1](https://github.com/AMD-AGI/AMD-Spark/issues/1#issuecomment-3318451610) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
+2. ❗ Opened issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
+3. 🔒 Closed issue [#1](https://github.com/Xnhyacinth/HyCo2/issues/1) in [Xnhyacinth/HyCo2](https://github.com/Xnhyacinth/HyCo2)
+4. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/DATA/issues/7) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+5. 🔒 Closed issue [#6](https://github.com/Xnhyacinth/DATA/issues/6) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
   <!--END_SECTION:activity-->
 
 </details>

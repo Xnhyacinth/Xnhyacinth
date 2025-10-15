@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
-2. ❗ Opened issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
-3. 🔒 Closed issue [#1](https://github.com/Xnhyacinth/HyCo2/issues/1) in [Xnhyacinth/HyCo2](https://github.com/Xnhyacinth/HyCo2)
-4. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/DATA/issues/7) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
-5. 🔒 Closed issue [#6](https://github.com/Xnhyacinth/DATA/issues/6) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
+1. 🔓 Reopened issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
+2. 🔒 Closed issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
+3. ❗ Opened issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
+4. 🔒 Closed issue [#1](https://github.com/Xnhyacinth/HyCo2/issues/1) in [Xnhyacinth/HyCo2](https://github.com/Xnhyacinth/HyCo2)
+5. 🔒 Closed issue [#7](https://github.com/Xnhyacinth/DATA/issues/7) in [Xnhyacinth/DATA](https://github.com/Xnhyacinth/DATA)
   <!--END_SECTION:activity-->
 
 </details>

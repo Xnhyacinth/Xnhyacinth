@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/AMD-AGI/AMD-Spark/issues/3#issuecomment-3420485063) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
-2. 🗣 Commented on [#34](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/34#issuecomment-3408962585) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-3. 🔓 Reopened issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
-4. 🔒 Closed issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
-5. ❗ Opened issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
+1. 🗣 Commented on [#6070](https://github.com/modelscope/ms-swift/issues/6070#issuecomment-3421253305) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
+2. 🗣 Commented on [#3](https://github.com/AMD-AGI/AMD-Spark/issues/3#issuecomment-3420485063) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
+3. 🗣 Commented on [#34](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/34#issuecomment-3408962585) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+4. 🔓 Reopened issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
+5. 🔒 Closed issue [#1](https://github.com/mit-han-lab/streaming-vlm/issues/1) in [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
   <!--END_SECTION:activity-->
 
 </details>

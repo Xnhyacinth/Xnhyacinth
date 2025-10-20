@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-2. ❗ Opened issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-3. 🗣 Commented on [#6070](https://github.com/modelscope/ms-swift/issues/6070#issuecomment-3421253305) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
-4. 🗣 Commented on [#3](https://github.com/AMD-AGI/AMD-Spark/issues/3#issuecomment-3420485063) in [AMD-AGI/AMD-Spark](https://github.com/AMD-AGI/AMD-Spark)
-5. 🗣 Commented on [#34](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/34#issuecomment-3408962585) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+1. 🗣 Commented on [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866#issuecomment-3421908911) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+2. 🔒 Closed issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. ❗ Opened issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+4. ❗ Opened issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+5. 🗣 Commented on [#6070](https://github.com/modelscope/ms-swift/issues/6070#issuecomment-3421253305) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
   <!--END_SECTION:activity-->
 
 </details>

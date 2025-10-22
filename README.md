@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866#issuecomment-3421908911) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-2. 🔒 Closed issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-3. ❗ Opened issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-4. ❗ Opened issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-5. 🗣 Commented on [#6070](https://github.com/modelscope/ms-swift/issues/6070#issuecomment-3421253305) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
+1. 🗣 Commented on [#35](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/35#issuecomment-3431907897) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+2. 🗣 Commented on [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866#issuecomment-3421908911) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. 🔒 Closed issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+4. ❗ Opened issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+5. ❗ Opened issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
   <!--END_SECTION:activity-->
 
 </details>

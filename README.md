@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/35#issuecomment-3431907897) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-2. 🗣 Commented on [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866#issuecomment-3421908911) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-3. 🔒 Closed issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-4. ❗ Opened issue [#866](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/866) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-5. ❗ Opened issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+1. 🗣 Commented on [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865#issuecomment-3440688430) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+2. 🔓 Reopened issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. 🗣 Commented on [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865#issuecomment-3440657985) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+4. 🔒 Closed issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+5. 🗣 Commented on [#35](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/35#issuecomment-3431907897) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
   <!--END_SECTION:activity-->
 
 </details>

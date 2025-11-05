@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/dvlab-research/VisionThink/issues/15#issuecomment-3488841521) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
-2. 🗣 Commented on [#15](https://github.com/dvlab-research/VisionThink/issues/15#issuecomment-3466209240) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
-3. ❗ Opened issue [#15](https://github.com/dvlab-research/VisionThink/issues/15) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
-4. 🔒 Closed issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-5. 🗣 Commented on [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865#issuecomment-3441098843) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+1. 🗣 Commented on [#15](https://github.com/dvlab-research/VisionThink/issues/15#issuecomment-3490071539) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
+2. 🗣 Commented on [#15](https://github.com/dvlab-research/VisionThink/issues/15#issuecomment-3488841521) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
+3. 🗣 Commented on [#15](https://github.com/dvlab-research/VisionThink/issues/15#issuecomment-3466209240) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
+4. ❗ Opened issue [#15](https://github.com/dvlab-research/VisionThink/issues/15) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
+5. 🔒 Closed issue [#865](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/865) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
   <!--END_SECTION:activity-->
 
 </details>

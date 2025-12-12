@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#895](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/895) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-2. 🗣 Commented on [#895](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/895#issuecomment-3539804270) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-3. 🗣 Commented on [#895](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/895#issuecomment-3520489050) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-4. 🗣 Commented on [#37](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/37#issuecomment-3519568166) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
-5. ❗ Opened issue [#895](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/895) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+1. ❗ Opened issue [#12](https://github.com/cokeshao/HoliTom/issues/12) in [cokeshao/HoliTom](https://github.com/cokeshao/HoliTom)
+2. 🔒 Closed issue [#895](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/895) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. 🗣 Commented on [#895](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/895#issuecomment-3539804270) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+4. 🗣 Commented on [#895](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/895#issuecomment-3520489050) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+5. 🗣 Commented on [#37](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/37#issuecomment-3519568166) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
   <!--END_SECTION:activity-->
 
 </details>

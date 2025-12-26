@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/dvlab-research/VisionThink/issues/17#issuecomment-3689276361) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
-2. 🗣 Commented on [#17](https://github.com/dvlab-research/VisionThink/issues/17#issuecomment-3688344008) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
-3. ❗ Opened issue [#947](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/947) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-4. 🗣 Commented on [#17](https://github.com/dvlab-research/VisionThink/issues/17#issuecomment-3685916094) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
-5. ❗ Opened issue [#17](https://github.com/dvlab-research/VisionThink/issues/17) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
+1. 🔒 Closed issue [#11](https://github.com/Hui-design/TSPO/issues/11) in [Hui-design/TSPO](https://github.com/Hui-design/TSPO)
+2. ❗ Opened issue [#11](https://github.com/Hui-design/TSPO/issues/11) in [Hui-design/TSPO](https://github.com/Hui-design/TSPO)
+3. 🗣 Commented on [#17](https://github.com/dvlab-research/VisionThink/issues/17#issuecomment-3689276361) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
+4. 🗣 Commented on [#17](https://github.com/dvlab-research/VisionThink/issues/17#issuecomment-3688344008) in [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
+5. ❗ Opened issue [#947](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/947) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
   <!--END_SECTION:activity-->
 
 </details>

@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/Hui-design/TSPO/issues/11) in [Hui-design/TSPO](https://github.com/Hui-design/TSPO)
-2. ❗ Opened issue [#11](https://github.com/Hui-design/TSPO/issues/11) in [Hui-design/TSPO](https://github.com/Hui-design/TSPO)
-3. 🗣 Commented on [#17](https://github.com/JIA-Lab-research/VisionThink/issues/17#issuecomment-3689276361) in [JIA-Lab-research/VisionThink](https://github.com/JIA-Lab-research/VisionThink)
-4. 🗣 Commented on [#17](https://github.com/JIA-Lab-research/VisionThink/issues/17#issuecomment-3688344008) in [JIA-Lab-research/VisionThink](https://github.com/JIA-Lab-research/VisionThink)
-5. ❗ Opened issue [#947](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/947) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+1. 🔒 Closed issue [#947](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/947) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+2. 🗣 Commented on [#947](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/947#issuecomment-3741803036) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. 🔒 Closed issue [#11](https://github.com/Hui-design/TSPO/issues/11) in [Hui-design/TSPO](https://github.com/Hui-design/TSPO)
+4. ❗ Opened issue [#11](https://github.com/Hui-design/TSPO/issues/11) in [Hui-design/TSPO](https://github.com/Hui-design/TSPO)
+5. 🗣 Commented on [#17](https://github.com/JIA-Lab-research/VisionThink/issues/17#issuecomment-3689276361) in [JIA-Lab-research/VisionThink](https://github.com/JIA-Lab-research/VisionThink)
   <!--END_SECTION:activity-->
 
 </details>

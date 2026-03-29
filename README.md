@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29863](https://github.com/vllm-project/vllm/issues/29863#issuecomment-3957741622) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-2. 🗣 Commented on [#29863](https://github.com/vllm-project/vllm/issues/29863#issuecomment-3951593634) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-3. 🗣 Commented on [#905](https://github.com/meta-pytorch/torchcodec/issues/905#issuecomment-3830409005) in [meta-pytorch/torchcodec](https://github.com/meta-pytorch/torchcodec)
-4. 🔒 Closed issue [#947](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/947) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-5. 🗣 Commented on [#947](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/947#issuecomment-3741803036) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+1. ❌ Closed PR [#1](https://github.com/Xnhyacinth/ResAdapt/pull/1) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
+2. ❌ Closed PR [#3](https://github.com/Xnhyacinth/ResAdapt/pull/3) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
+3. ❌ Closed PR [#4](https://github.com/Xnhyacinth/ResAdapt/pull/4) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
+4. ❌ Closed PR [#5](https://github.com/Xnhyacinth/ResAdapt/pull/5) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
+5. ❌ Closed PR [#2](https://github.com/Xnhyacinth/ResAdapt/pull/2) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
   <!--END_SECTION:activity-->
 
 </details>

@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Xnhyacinth/ResAdapt/pull/5) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
+1. 🗣 Commented on [#41](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/41#issuecomment-4342892678) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
 2. ❌ Closed PR [#4](https://github.com/Xnhyacinth/ResAdapt/pull/4) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
 3. ❌ Closed PR [#3](https://github.com/Xnhyacinth/ResAdapt/pull/3) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
 4. ❌ Closed PR [#2](https://github.com/Xnhyacinth/ResAdapt/pull/2) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)

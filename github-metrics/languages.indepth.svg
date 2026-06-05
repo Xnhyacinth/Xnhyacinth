@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.87914450001995" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="355.87914450001995" y="0" width="54.26630454197488" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="410.1454490419948" y="0" width="30.086027994233376" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="440.2314770362282" y="0" width="19.76852296377179" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.33949212942554" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="356.33949212942554" y="0" width="54.336500744923484" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="410.67599287434905" y="0" width="29.529912579998467" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="440.2059054543475" y="0" width="19.79409454565251" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,8 +49,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>50.3k lines</div>
-                                <div>1.50 MB</div>
+                                <div>49.6k lines</div>
+                                <div>1.47 MB</div>
                             </small>
                         </div>
                     </section>

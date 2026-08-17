@@ -60,8 +60,8 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/THUDM/IndexCache/issues/8) in [THUDM/IndexCache](https://github.com/THUDM/IndexCache)
-2. ❗ Opened issue [#22](https://github.com/EvolvingLMMs-Lab/LongVT/issues/22) in [EvolvingLMMs-Lab/LongVT](https://github.com/EvolvingLMMs-Lab/LongVT)
+1. 🗣 Commented on [#45](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/45#issuecomment-5313268371) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
+2. ❗ Opened issue [#8](https://github.com/THUDM/IndexCache/issues/8) in [THUDM/IndexCache](https://github.com/THUDM/IndexCache)
 3. 🗣 Commented on [#41](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/41#issuecomment-4342892678) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
 4. ❌ Closed PR [#2](https://github.com/Xnhyacinth/ResAdapt/pull/2) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)
 5. ❌ Closed PR [#1](https://github.com/Xnhyacinth/ResAdapt/pull/1) in [Xnhyacinth/ResAdapt](https://github.com/Xnhyacinth/ResAdapt)

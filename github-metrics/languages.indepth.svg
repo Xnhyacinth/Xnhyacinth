@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 23.2mb of code in 4298 edited files across 170 commits</small>
+                <small>estimation from 21.8mb of code in 4309 edited files across 174 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.862191114184" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.862191114184" y="0" width="10.030162078961727" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="454.8923531931457" y="0" width="4.1355996068443215" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.02795279999003" y="0" width="0.9720472000099533" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.86780177299437" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.86780177299437" y="0" width="10.026444512062717" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="454.8942462850571" y="0" width="4.1340667933080155" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.02831307836504" y="0" width="0.9716869216349294" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>

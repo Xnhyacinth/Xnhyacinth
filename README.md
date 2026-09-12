@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/66#issuecomment-5620997154) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-2. 🗣 Commented on [#16](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/16#issuecomment-5620996876) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-3. 🗣 Commented on [#17](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/17#issuecomment-5620996620) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-4. 🎉 Merged PR [#67](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/67) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-5. 💪 Opened PR [#67](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/67) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+1. ❌ Closed PR [#31](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/31) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+2. ❌ Closed PR [#30](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/30) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+3. ❌ Closed PR [#29](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/29) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+4. ❌ Closed PR [#16](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/16) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+5. 🗣 Commented on [#66](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/66#issuecomment-5620997154) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
   <!--END_SECTION:activity-->
 
 </details>

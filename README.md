@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#97](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/97) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-2. 🗣 Commented on [#97](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/97#issuecomment-5709619152) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-3. 🗣 Commented on [#97](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/97#issuecomment-5708647730) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-4. 🗣 Commented on [#18](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/18#issuecomment-5708021613) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
-5. 🗣 Commented on [#27](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/27#issuecomment-5708009132) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+1. 💪 Opened PR [#104](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/104) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+2. 🗣 Commented on [#101](https://github.com/Geniusyingmanji/ScientistsLastExam/issues/101#issuecomment-5715156848) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+3. 💪 Opened PR [#103](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/103) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+4. 💪 Opened PR [#102](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/102) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+5. ❗ Opened issue [#101](https://github.com/Geniusyingmanji/ScientistsLastExam/issues/101) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
   <!--END_SECTION:activity-->
 
 </details>

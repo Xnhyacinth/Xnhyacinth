@@ -78,16 +78,6 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
 
-      # 🌟 Recently starred repositories
-      - name: Recently starred
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 10
-          
       # 💡 Coding habits and activity
       - name: Recent activity charts
         uses: lowlighter/metrics@latest

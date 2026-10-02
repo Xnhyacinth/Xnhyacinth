@@ -87,7 +87,6 @@ Here are some ideas to get you started:
       <td><img src="github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Xnhyacinth?tab=stars"><img src="github-metrics/stars.svg" alt="stars" /></a></td>
       <td><a href="#btm"><img src="github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></a></td>
     </tr>
   </table>

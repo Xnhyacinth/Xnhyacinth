@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/108) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
+1. 🎉 Merged PR [#46](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pull/46) in [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
 2. 🗣 Commented on [#105](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/105#issuecomment-5722865488) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
 3. 🎉 Merged PR [#99](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/99) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
 4. 🎉 Merged PR [#98](https://github.com/Geniusyingmanji/ScientistsLastExam/pull/98) in [Geniusyingmanji/ScientistsLastExam](https://github.com/Geniusyingmanji/ScientistsLastExam)
